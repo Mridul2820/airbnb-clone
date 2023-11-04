@@ -32,13 +32,13 @@ const Search = () => {
             />
             <h2>Number of guests <PeopleIcon /></h2>
             <input 
-                className="search__people" 
+                className="search__spaces" 
                 min={0} 
                 defaultValue={2} 
                 type="number" 
             />
             <Button onClick={() => history.push('/search')}>
-                Search Airbnb
+                Search Space
             </Button>
         </div>
     )
