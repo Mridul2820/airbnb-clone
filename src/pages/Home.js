@@ -10,12 +10,12 @@ const Home = () => {
         <div className="home">
             <Banner />
 
-            <div className="home__nearby">
+            <div className="home__Nairobi">
                 <h1>Explore Nearby</h1>
                 <NearBy />
             </div>
 
-            <div className="home__anywhere">
+            <div className="home__Mombasa">
                 <h1>Live Anywhere</h1>
                 <LiveAnywhere />
             </div>

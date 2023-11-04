@@ -21,13 +21,13 @@ const Banner = () => {
                 </Button>
             </div>
             <div className="banner__info">
-                <h1>Get out and stretch your imagination</h1>
+                <h1>Explore unique venues</h1>
                 <h5>
-                    Plan a different kind of getaway to uncover the hidden gems near you.
+                    Plan a different kind of mind-blowing creation.
                 </h5>
                 <Button 
                     onClick={() => history.push('/search')}
-                    variant='outlined'>Explore Nearby
+                    variant='outlined'>Activities
                 </Button>
             </div>
         </div>

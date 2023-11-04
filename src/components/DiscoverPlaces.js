@@ -6,20 +6,20 @@ const DiscoverPlaces = () => {
         <div className="discover">
             <Card
                 src="https://media.nomadicmatt.com/2019/airbnb_breakup3.jpg"
-                title="3 Bedroom Flat in Bournemouth"
-                description="Superhost with a stunning view of the beachside in Sunny Bournemouth"
+                title="Unique rooms in Kileleshwa"
+                description="Spectacular hill country views and an abundance of natural light is what you'll experience in this modern 3500 sq. ft. home. "
                 price="£130/night"
             />
             <Card
                 src="https://thespaces.com/wp-content/uploads/2017/08/Courtesy-of-Airbnb.jpg"
-                title="Penthouse in London"
-                description="Enjoy the amazing sights of London with this stunning penthouse"
+                title="Penthouse in Nairobi"
+                description="Perfect backdrop for your next film shoot"
                 price="£350/night"
             />
             <Card
                 src="https://media.nomadicmatt.com/2018/apartment.jpg"
-                title="1 Bedroom apartment"
-                description="Superhost with great amenities and a fabolous shopping complex nearby"
+                title="Apartment"
+                description="Lighting equipment is included and will be available at a fee"
                 price="£70/night"
             />
         </div>
